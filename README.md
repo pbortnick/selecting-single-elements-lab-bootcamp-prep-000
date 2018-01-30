@@ -1,4 +1,4 @@
-## Selecting Elements Lab
+ide## Selecting Elements Lab
 
 ### Introduction
 
